@@ -1,4 +1,3 @@
-# JavaScript.github.io
 <!DOCTYPE html>
 <html>
 <head>
